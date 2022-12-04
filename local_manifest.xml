@@ -8,9 +8,9 @@
 
 
 	<!-- Tree -->
-        <project path="device/xiaomi/wayne-4.19" name="android_device_xiaomi_wayne-4.19" remote="tree" revision="TDA" clone-depth="1" />
-        <project path="vendor/xiaomi/wayne-4.19" name="android_vendor_xiaomi_wayne-4.19" remote="tree" revision="TDA" clone-depth="1" />
-        <project path="kernel/xiaomi/wayne-4.19" name="android_kernel_xiaomi_wayne-4.19" remote="tree" revision="TDA" clone-depth="1" />
-        <project path="xiaomi/wayne-common" name="device_xiaomi_wayne-common" remote="tree" revision="12.1" clone-depth="1" />
+        <project path="device/xiaomi/wayne-4.19" name="android_device_xiaomi_wayne-4.19" remote="tree" revision="TDA" />
+        <project path="vendor/xiaomi/wayne-4.19" name="android_vendor_xiaomi_wayne-4.19" remote="tree" revision="TDA" />
+        <project path="kernel/xiaomi/wayne-4.19" name="android_kernel_xiaomi_wayne-4.19" remote="tree" revision="TDA" />
+        <project path="xiaomi/wayne-common" name="device_xiaomi_wayne-common" remote="tree" revision="12.1" />
 
 </manifest>
